@@ -130,4 +130,8 @@ u /= 11;
 
 //Task 20
 
-const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
+
+//Task 21
+
+const myStr2 = '<a href="http://www.example.com" target="_blank">Link</a>';

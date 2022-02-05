@@ -172,4 +172,10 @@ let firstLetterOfLastName = "";
 const lastName3 = "Lovelace";
 
 
-firstLetterOfLastName = lastName3[0]; // Change this line
+firstLetterOfLastName = lastName3[0]; 
+
+//Task 29
+
+// Setup
+const lastName4 = "Lovelace";
+const thirdLetterOfLastName = lastName4[2]; 

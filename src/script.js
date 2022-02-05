@@ -79,3 +79,6 @@ const prod = 8*10;
 
 //Task 14
 const quotient = 66 / 33;
+
+//Task 15
+const remainder = 10%8;

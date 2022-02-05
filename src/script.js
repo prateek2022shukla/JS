@@ -266,7 +266,7 @@ function functionWithArgs(a , b){
   functionWithArgs(1,2);
   functionWithArgs(7,9);
 
-  //Task 45
+//Task 45
 
   function timesFive(a){
     return (5*a);
@@ -275,3 +275,39 @@ function functionWithArgs(a , b){
   timesFive(2);
   timesFive(0);
   
+
+//Task 46  
+
+// Declare the myGlobal variable below this line
+let myGlobal;
+myGlobal = 10;
+
+function fun1() {
+  // Assign 5 to oopsGlobal Here
+   oopsGlobal = 5;
+}
+
+// Only change code above this line
+
+// Declare the myGlobal variable below this line
+let myGlobal;
+myGlobal = 10;
+
+function fun1() {
+  // Assign 5 to oopsGlobal Here
+   oopsGlobal = 5;
+}
+
+// Only change code above this line
+
+function fun2() {
+  var output = "";
+  if (typeof myGlobal != "undefined") {
+    output += "myGlobal: " + myGlobal;
+  }
+  if (typeof oopsGlobal != "undefined") {
+    output += " oopsGlobal: " + oopsGlobal;
+  }
+  console.log(output);
+}
+ 

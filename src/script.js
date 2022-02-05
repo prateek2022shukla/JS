@@ -148,3 +148,8 @@ const myStr4 = "This is the start. " + "This is the end.";
 let myStr5 = "This is the first sentence.";
 
 myStr5 += " This is the second sentence."
+
+//Task 25
+
+const myName2 = "Prateek";
+const myStr6 = "My name is "+ myName2 + " and I am well!";

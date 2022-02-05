@@ -153,3 +153,9 @@ myStr5 += " This is the second sentence."
 
 const myName2 = "Prateek";
 const myStr6 = "My name is "+ myName2 + " and I am well!";
+
+//Task 26
+
+const someAdjective = "javaScript";
+let myStr7 = "Learning to code is ";
+myStr7  += someAdjective ;

@@ -209,3 +209,7 @@ const myArray2 = [["Bulls", 23], ["White Sox", 45]];
 const myArray3 = [50, 60, 70];
 const myData2 = myArray3[0];
 
+//Task 36
+
+const myArray4 = [18, 64, 99];
+myArray4[0] = 45;

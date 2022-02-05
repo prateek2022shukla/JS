@@ -240,3 +240,9 @@ const removedFromMyArray = myArray7.pop();
 const myArray8 = [["John", 23], ["dog", 3]];
 const removedFromMyArray8 = myArray8.shift();
 
+//Task 41
+
+const myArray9 = [["John", 23], ["dog", 3]];
+myArray9.shift();
+myArray9.unshift(["Paul", 35]);
+

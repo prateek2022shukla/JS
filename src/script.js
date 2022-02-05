@@ -368,9 +368,21 @@ console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr));
 
-// Task 51
+// Task 52
 
 function welcomeToBooleans() {
   
   return true; 
+}
+
+//Task 53
+
+function trueOrFalse(wasThatTrue) {
+    if(wasThatTrue){
+    return "Yes, that was true";
+  }
+  else{
+    return "No, that was false";
+  }
+
 }

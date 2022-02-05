@@ -32,3 +32,14 @@ var b = 55;
 
 var myFirstName = "Prateek";
 var myLastName = "Shukla";
+
+//Task - 7 
+var p = 5;
+var q = 10;
+var r = "I am a";
+
+
+p = p + 1;
+q = q + 5;
+r = r + " String!";
+

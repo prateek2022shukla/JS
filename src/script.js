@@ -317,4 +317,19 @@ function myLocalScope() {
     console.log('inside myLocalScope', myVar);
   }
   myLocalScope();
-  console.log('outside myLocalScope', myVar);
+//   console.log('outside myLocalScope', myVar);
+
+
+
+//Task 48
+
+ 
+ const outerWear = "T-Shirt";
+
+ function myOutfit() {
+    var outerWear = "sweater"
+    return outerWear;
+ }
+ 
+ myOutfit();    
+

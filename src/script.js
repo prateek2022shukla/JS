@@ -16,3 +16,10 @@ var myName;
 
 var a;
 var a = 7;
+
+// Task - 4
+
+var x;
+x = 7;
+var y;
+y = x;

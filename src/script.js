@@ -116,3 +116,15 @@ let m = 4.6;
 k *=5;
 l *= 3;
 m *= 10 ;
+
+
+//Task 19
+
+let s = 48;
+let t = 108;
+let u = 33;
+
+// Only change code below this line
+s /= 12;
+t /= 4;
+u /= 11;

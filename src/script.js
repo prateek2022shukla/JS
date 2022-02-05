@@ -72,3 +72,6 @@ const sum = 10 + 10;
 
 //Task 12
 const difference = 45 - 33;
+
+//Task 13
+const prod = 8*10;

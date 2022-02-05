@@ -139,3 +139,6 @@ const myStr2 = '<a href="http://www.example.com" target="_blank">Link</a>';
 //Task 22
 
 const myStr3 = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+
+//Task 23
+const myStr4 = "This is the start. " + "This is the end.";

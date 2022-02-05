@@ -246,3 +246,6 @@ const myArray9 = [["John", 23], ["dog", 3]];
 myArray9.shift();
 myArray9.unshift(["Paul", 35]);
 
+
+//Task 42
+const myList = [["one", 1], ["two", 2], ["three", 3], ["four", 4], ["five", 5]];

@@ -386,3 +386,17 @@ function trueOrFalse(wasThatTrue) {
   }
 
 }
+
+//Task 54
+
+// Setup
+function testEqual(val) {
+  if (val == 12) { 
+    return "Equal";
+  }
+  else{
+    return "Not Equal";
+    }
+}
+
+testEqual(10);

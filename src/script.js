@@ -165,3 +165,11 @@ myStr7  += someAdjective ;
 let lastNameLength = 0;
 const lastName2 = "Lovelace";
 lastNameLength = lastName2.length;
+
+//Task 28
+
+let firstLetterOfLastName = "";
+const lastName3 = "Lovelace";
+
+
+firstLetterOfLastName = lastName3[0]; // Change this line

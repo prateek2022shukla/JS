@@ -204,3 +204,8 @@ const myArray = ["Hello" ,  1];
 
 //Task 34
 const myArray2 = [["Bulls", 23], ["White Sox", 45]];
+
+//Task 35
+const myArray3 = [50, 60, 70];
+const myData2 = myArray3[0];
+

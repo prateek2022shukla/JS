@@ -82,3 +82,14 @@ const quotient = 66 / 33;
 
 //Task 15
 const remainder = 10%8;
+
+
+//Task 16
+
+let e = 3;
+let f = 17;
+let g = 12;
+
+e += 12;
+f += 9 ;
+g += 7;

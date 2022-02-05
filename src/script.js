@@ -27,3 +27,8 @@ y = x;
 // Task - 5
 
 var b = 55;
+
+//Task - 6
+
+var myFirstName = "Prateek";
+var myLastName = "Shukla";

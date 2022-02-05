@@ -75,3 +75,7 @@ const difference = 45 - 33;
 
 //Task 13
 const prod = 8*10;
+
+
+//Task 14
+const quotient = 66 / 33;

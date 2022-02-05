@@ -187,6 +187,14 @@ const lastLetterOfLastName = lastName5[lastName5.length-1];
 
 //Task 31 
 
-// Setup
 const lastName6 = "Lovelace";
 const secondToLastLetterOfLastName = lastName6[lastName6.length-2]; 
+
+//Task 32 
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+const wordBlanks =  myNoun + " " + myAdjective + " "+ myVerb + " " + myAdverb ; // Change this line

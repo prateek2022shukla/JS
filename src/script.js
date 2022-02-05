@@ -389,7 +389,6 @@ function trueOrFalse(wasThatTrue) {
 
 //Task 54
 
-// Setup
 function testEqual(val) {
   if (val == 12) { 
     return "Equal";
@@ -400,3 +399,14 @@ function testEqual(val) {
 }
 
 testEqual(10);
+
+//Task 55
+// Setup
+function testStrict(val) {
+  if (val===7) { // Change this line
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+testStrict(10);

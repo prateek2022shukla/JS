@@ -124,7 +124,10 @@ let s = 48;
 let t = 108;
 let u = 33;
 
-// Only change code below this line
 s /= 12;
 t /= 4;
 u /= 11;
+
+//Task 20
+
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line

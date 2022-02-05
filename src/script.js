@@ -249,3 +249,10 @@ myArray9.unshift(["Paul", 35]);
 
 //Task 42
 const myList = [["one", 1], ["two", 2], ["three", 3], ["four", 4], ["five", 5]];
+
+//Task 43
+function reusableFunction(){
+    console.log("Hi World")
+} 
+
+reusableFunction();

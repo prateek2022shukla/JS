@@ -23,3 +23,7 @@ var x;
 x = 7;
 var y;
 y = x;
+
+// Task - 5
+
+var b = 55;

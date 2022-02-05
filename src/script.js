@@ -135,3 +135,7 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 //Task 21
 
 const myStr2 = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+//Task 22
+
+const myStr3 = "FirstLine\n\t\\SecondLine\nThirdLine"; 

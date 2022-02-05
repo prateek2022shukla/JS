@@ -333,3 +333,17 @@ function myLocalScope() {
  
  myOutfit();    
 
+//Task 49
+
+let sum3 = 0;
+function addThree() {
+  sum3 = sum3 + 3;
+}
+
+function addFive(){
+  sum3 += 5;
+}
+addThree();
+addFive();
+
+//Task 50

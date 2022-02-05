@@ -229,3 +229,8 @@ const myArray5 = [
 
 const myArray6 = [["John", 23], ["cat", 2]];
 myArray6.push(["dog", 3]);
+
+//Task 39
+
+const myArray7 = [["John", 23], ["cat", 2]];
+const removedFromMyArray = myArray7.pop();

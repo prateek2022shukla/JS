@@ -224,3 +224,8 @@ const myArray5 = [
   ];
   
   const myData3 = myArray5[2][1];
+
+//Task 38
+
+const myArray6 = [["John", 23], ["cat", 2]];
+myArray6.push(["dog", 3]);

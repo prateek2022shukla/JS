@@ -265,3 +265,13 @@ function functionWithArgs(a , b){
   
   functionWithArgs(1,2);
   functionWithArgs(7,9);
+
+  //Task 45
+
+  function timesFive(a){
+    return (5*a);
+  }
+  timesFive(5);
+  timesFive(2);
+  timesFive(0);
+  

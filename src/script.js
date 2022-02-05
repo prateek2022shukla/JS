@@ -159,3 +159,9 @@ const myStr6 = "My name is "+ myName2 + " and I am well!";
 const someAdjective = "javaScript";
 let myStr7 = "Learning to code is ";
 myStr7  += someAdjective ;
+
+//Task 27
+
+let lastNameLength = 0;
+const lastName2 = "Lovelace";
+lastNameLength = lastName2.length;

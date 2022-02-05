@@ -196,5 +196,8 @@ const myNoun = "dog";
 const myAdjective = "big";
 const myVerb = "ran";
 const myAdverb = "quickly";
+const wordBlanks =  myNoun + " " + myAdjective + " "+ myVerb + " " + myAdverb ;
 
-const wordBlanks =  myNoun + " " + myAdjective + " "+ myVerb + " " + myAdverb ; // Change this line
+//Task 33
+
+const myArray = ["Hello" ,  1];

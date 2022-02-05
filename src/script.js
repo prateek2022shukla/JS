@@ -176,6 +176,12 @@ firstLetterOfLastName = lastName3[0];
 
 //Task 29
 
-// Setup
 const lastName4 = "Lovelace";
 const thirdLetterOfLastName = lastName4[2]; 
+
+//Task 30
+
+// Setup
+const lastName5 = "Lovelace";
+
+const lastLetterOfLastName = lastName5[lastName5.length-1]; // Change this line
